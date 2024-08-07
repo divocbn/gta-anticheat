@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is an anticheat system originally designed for a server on RAGE:MP, a multiplayer modification for GTA V. The purpose of this system is to detect and prevent cheating in the game. Please note that this project is somewhat old and the code may not reflect modern standards.
+This project is an anticheat system originally designed for a server on RAGE:MP, a multiplayer modification for GTA:V. The purpose of this system is to detect and prevent cheating in the game. Please note that this project is somewhat old and the code may not reflect modern standards.
 
 ## Project Overview
 
