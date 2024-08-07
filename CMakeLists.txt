@@ -78,7 +78,7 @@ endif()
 
 link_directories(
   $ENV{DXSDK_DIR}/Lib/x64
-  ${PROJECT_SOURCE_DIR}/libs
+  ${PROJECT_SOURCE_DIR}/vendor
 )
 
 add_library(
